@@ -1,4 +1,4 @@
-# Python Calculator
+# Python Calculator 🐍
 
 Simple calculator made with Python.
 
@@ -11,3 +11,17 @@ Simple calculator made with Python.
 
 ## Technologies
 - Python
+
+## Concepts Used
+- Functions with `def`
+- Conditional statements (`if`, `elif`, `else`)
+- Loops with `while`
+- Error handling using `try` and `except`
+- Lists to store operation history
+- Modules and file separation
+- User input handling
+- Formatted strings (`f-strings`)
+
+## Project Structure
+- `main.py` → Main calculator menu and program flow
+- `operations.py` → Mathematical operations and input validation
